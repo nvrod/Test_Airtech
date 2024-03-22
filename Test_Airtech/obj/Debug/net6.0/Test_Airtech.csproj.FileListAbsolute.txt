@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.AssemblyInfo.cs
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\bin\Debug\net6.0\Test_Airtech.exe
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\bin\Debug\net6.0\Test_Airtech.deps.json
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\bin\Debug\net6.0\Test_Airtech.runtimeconfig.json
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\bin\Debug\net6.0\Test_Airtech.dll
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\bin\Debug\net6.0\Test_Airtech.pdb
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.dll
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\refint\Test_Airtech.dll
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.pdb
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\Test_Airtech.genruntimeconfig.cache
+C:\Users\USER\Desktop\Nico\Test_Airtech\Test_Airtech\obj\Debug\net6.0\ref\Test_Airtech.dll
